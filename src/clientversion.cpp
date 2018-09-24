@@ -13,7 +13,7 @@
  * for both bitmoneyd and bitmoney-qt, to make it harder for attackers to
  * target servers or GUI users specifically.
  */
-const std::string CLIENT_NAME("Bitmoney Core");
+const std::string CLIENT_NAME("Bitmoney Blockchain v1.0");
 
 /**
  * Client version number
